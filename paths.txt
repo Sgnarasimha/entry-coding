@@ -1,0 +1,12 @@
+<h1>Aabreviations</h1>
+1.Absolute path
+2.Relative path
+Image that we are talking about Nature.jpg
+
+These are the examples of relative paths
+
+src="Nature.jpg" - in the same folder
+src="images/Nature.jpg" - in the images folder and images folder is in the same folder as this file.
+src="/images/Nature.jpg" - in the images folder and the images folder is at the root directoy.
+src="../Nature.jpg" - in the images floder and images folder is one level up from the folder where this the file is present.
+

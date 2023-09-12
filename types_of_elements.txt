@@ -1,0 +1,16 @@
+---> There are two types of elements
+1. Block elements -- These elements alwyas start on a new line. occupies entire line width.
+2. Inline elements -- These elements on the current line.These take up as much width as required.
+
+3.Here are the block-level elements in HTML:
+
+<address> <article> <aside> <blockquote> <canvas> <dd> <div> <dl> <dt> <fieldset> <figcaption> <figure> <footer> <form> <h1>-<h6> <header> <hr> <li> <main> <nav> <noscript> <ol> <p> <pre> <section> <table> <tfoot> <ul> <video>
+
+
+
+4.Here are the inline elements in HTML:
+
+<a> <abbr> <acronym> <b> <bdo> <big> <br> <button> <cite> <code> <dfn> <em> <i> <img> <input> <kbd> <label> <map> <object> <output> <q> <samp> <script> <select> <small> <span> <strong> <sub> <sup> <textarea> <time> <tt> <var>
+
+
+Note: An inline element cannot contain a block-level element!
