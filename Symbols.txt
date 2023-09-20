@@ -1,0 +1,24 @@
+Many mathematical, technical, and currency symbols, are not present on a normal keyboard.
+
+To add such symbols to an HTML page, you can use the entity name or the entity number (a decimal or a hexadecimal reference) for the symbol.
+
+
+  For all_&forall 
+  partial differencial_&part 
+  There exists_&exist 
+  Element of_&isin
+  Sigma_&sum
+  Name_&name 
+  Number_&name
+  Alpha_&Alpha_ 
+  Beta_&Beta_ 
+  Gamma_&Gamma_ 
+  Indian Rupee_&#8377;
+  Bitcoin - &#8383;
+  Euro_&#8352;
+  Left pointing arrow - &larr;  _&#8592
+  Fight pointing arrow - &rarr;
+  Maths first - for all - &#8704
+  Maths last Notion member ship - &#8959
+  Greek first heta-&#880
+  Greek last - Reversed dotted lunate sigma _&#1023
